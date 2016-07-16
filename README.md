@@ -8,13 +8,13 @@ Timeago is a jQuery plugin that makes it easy to support automatically updating 
 
 Either run
 ```
-composer global require "fxp/composer-asset-plugin:1.0.0-beta4"
+composer global require "fxp/composer-asset-plugin:*"
 ```
 
 And add
 
 ```
-"yiidoc/yii2-timeago": "dev-master",
+"yiidoc/yii2-timeago": "*",
 ```
 
 ## Usage
